@@ -5,7 +5,7 @@
 Installing the bucket will provide access to Snyk software via [Scoop](https://scoop.sh/):
 
 ```console
-scoop bucket add snyk https://github.com/snyk/scoop-snyk
+scoop bucket add snyk https://github.com/ashley-w-brazier-cloudm/scoop-snyk
 ```
 
 Installing Snyk can then be done as follows:
